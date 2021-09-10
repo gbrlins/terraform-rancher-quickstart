@@ -28,16 +28,16 @@ Nesse momento, o processo iniciará e após alguns minutos, teremos a url para a
 
 # Dentro do Rancher
 
-Na interface inicial, ir em Settings e alterar os seguintes campos:
-server-url
+1. Na interface inicial, ir em Settings e alterar os seguintes campos:
+- server-url
 ![alt text](https://github.com/gbrlins/terraform-rancher-quickstart/blob/main/images/step-1.gif)
 
 
-No cluster local, no projeto "System", alterar a seguintes informaćões:
+2. No cluster local, no projeto "System", alterar a seguintes informaćões:
 
-Em "Load Balancing", editar o ingress atual substituindo o hostname atual pela općão "Specify a hostname to use". 
+- Em "Load Balancing", editar o ingress atual substituindo o hostname atual pela općão "Specify a hostname to use". 
 Colocar o hostname reservado no DNS nesse campo.
 
-Na mesma página, na opcão "SSL/TLS Certificates" alterar o host para o mesmo alterado no passo anterior.
+- Na mesma página, na opcão "SSL/TLS Certificates" alterar o host para o mesmo alterado no passo anterior.
 
 ![alt text](https://github.com/gbrlins/terraform-rancher-quickstart/blob/main/images/step-2.gif)
