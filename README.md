@@ -29,7 +29,9 @@ Nesse momento, o processo iniciará e após alguns minutos, teremos a url para a
 # Dentro do Rancher
 
 1. Na interface inicial, ir em Settings e alterar os seguintes campos:
+
 - server-url
+
 ![alt text](https://github.com/gbrlins/terraform-rancher-quickstart/blob/main/images/step-1.gif)
 
 
