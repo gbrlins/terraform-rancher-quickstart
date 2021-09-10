@@ -30,6 +30,8 @@ Nesse momento, o processo iniciará e após alguns minutos, teremos a url para a
 
 Na interface inicial, ir em Settings e alterar os seguintes campos:
 server-url
+![alt text](https://github.com/gbrlins/terraform-rancher-quickstart/blob/main/images/step1.gif)
+
 
 No cluster local, no projeto "System", alterar a seguintes informaćões:
 
