@@ -26,7 +26,7 @@ terraform apply --auto-approve
 
 Nesse momento, o processo iniciará e após alguns minutos, teremos a url para acessar a interface do Rancher, tornando a interface acessível após reboot.
 
-### Dentro do Rancher
+# Dentro do Rancher
 
 Na interface inicial, ir em Settings e alterar os seguintes campos:
 server-url
