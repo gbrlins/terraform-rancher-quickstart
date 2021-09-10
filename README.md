@@ -16,7 +16,7 @@ cd quickstart/aws
 mv terraform.tfvars.example terraform.tfvars
 ```
 
-Editar arquivo com as variáveis desejadas. Os exemplos para subir Rancher v2.5.9 está em [GitHub Pages](https://pages.github.com/)
+Editar arquivo com as variáveis desejadas. Os exemplos para subir Rancher v2.5.9 está em [Terraform TFVars](https://github.com/gbrlins/terraform-rancher-quickstart/blob/main/terraform.tfvars)
 
 ```
 terraform init
