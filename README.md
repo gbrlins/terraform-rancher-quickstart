@@ -37,4 +37,7 @@ No cluster local, no projeto "System", alterar a seguintes informaćões:
 
 Em "Load Balancing", editar o ingress atual substituindo o hostname atual pela općão "Specify a hostname to use". 
 Colocar o hostname reservado no DNS nesse campo.
+
 Na mesma página, na opcão "SSL/TLS Certificates" alterar o host para o mesmo alterado no passo anterior.
+
+![alt text](https://github.com/gbrlins/terraform-rancher-quickstart/blob/main/images/step-2.gif)
