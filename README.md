@@ -2,9 +2,9 @@
 
 ### Provisionamento do cluster+Rancher
 #### Requisitos:
-Terraform >=0.13.0
+- Terraform >=0.13.0
 
-Credenciais da Amazon (aws_secret_key, aws_access_key)
+- Credenciais da Amazon (aws_secret_key, aws_access_key)
 
 #### Passo a passo:
 
